@@ -12,7 +12,7 @@ In this task, we are using semantically-close books from the Gutenberg project a
 - Matplotlib
 - Jupyter/spider/colaB 
 ## Output Example:
-An example for the output of eli5 for the top 10 words of the 5 books:
+An example for the output of eli5 for the top 10 words of 5 books:
 ![image](https://user-images.githubusercontent.com/36189572/149307432-481069e1-2c85-481e-bce4-8dc01b52d5a6.png)
 ## Steps:
 1. We start by 5 books that are semantically close to each other. 
